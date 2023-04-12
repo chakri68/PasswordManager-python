@@ -1,0 +1,6 @@
+# python things 🏗️
+.venv
+__pycache__/
+
+# password files
+*.pwd
